@@ -78,7 +78,7 @@ You are given this grid as a list of lists where each sublists corresponds to a 
  [5,6,7]]
  ```
 
-You are required to print all of the paths that we can take to reach from the top-left cell to the bottom-right cell. Note that you ** Must Use Recursion**. Do not forget that the paths must be **strictly increasing**.
+You are required to print all of the paths that we can take to reach from the top-left cell to the bottom-right cell. Note that you **Must Use Recursion**. Do not forget that the paths must be **strictly increasing**.
 You should print each of these paths as a list in a separate line. In our example, they would be:
 ```
 [1, 4, 6, 7]
